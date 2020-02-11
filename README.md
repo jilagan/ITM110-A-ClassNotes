@@ -1,2 +1,2 @@
-# ITM110-A-ClassNotes
-ITM 110 A Class Notes
+# ITM110-X-ClassNotes
+ITM 110 X Class Notes
